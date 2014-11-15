@@ -1,0 +1,33 @@
+html {
+  font-family: sans-serif;
+}
+
+body {
+  margin: 0;
+  font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
+  background-color: #fff;
+}
+
+a {
+  color: #0E5E87;
+}
+
+h3.categoryname > a {
+  font-size: 18px;
+  font-weight: bolder;
+  padding: 2px 5px;
+}
+
+h4.categoryname > a {
+    font-size: 16px;
+    font-weight: lighter;
+    padding: 2px 5px;
+}
+
+#region-main {
+  padding: 0 0 0 30px;
+}
+
+.select {
+    font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
+}

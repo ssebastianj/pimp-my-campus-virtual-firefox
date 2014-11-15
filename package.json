@@ -1,0 +1,12 @@
+{
+  "name": "pimp-my-campus-virtual",
+  "title": "Pimp my Campus Virtual!",
+  "id": "jid1-9VkLXUXVUfxd9g",
+  "description": "Pimp my Campus Virtual!",
+  "author": "Sebastián J. Seba",
+  "license": "MIT",
+  "version": "0.1",
+  "homepage": "",
+  "icon64": "./data/img/icon-64.png",
+  "private-browsing": true
+}

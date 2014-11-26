@@ -5,8 +5,8 @@
   "description": "Pimp my Campus Virtual!",
   "author": "Sebastián J. Seba",
   "license": "MIT",
-  "version": "0.1.1",
-  "homepage": "",
+  "version": "0.2",
+  "homepage": "https://github.com/ssebastianj/pimp-my-campus-virtual-firefox",
   "icon64": "./data/img/icon-64.png",
   "private-browsing": true
 }

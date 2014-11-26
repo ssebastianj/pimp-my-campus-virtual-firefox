@@ -3,9 +3,14 @@ html {
 }
 
 body {
-  margin: 0;
-  font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
   background-color: #fff;
+  margin: 0;
+}
+
+body,
+input,
+.select {
+  font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
 }
 
 a {
@@ -25,9 +30,5 @@ h4.categoryname > a {
 }
 
 #region-main {
-  padding: 0 0 0 30px;
-}
-
-.select {
-    font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
+  padding: 0 30px;
 }
